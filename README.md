@@ -1,4 +1,4 @@
-# Project Title
+# n26-scraper
 
 Downaload balance and latest transactions from N26's website.
 

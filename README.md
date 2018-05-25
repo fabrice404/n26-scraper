@@ -1,6 +1,6 @@
 # n26-scraper
 
-Downaload balance and latest transactions from N26's website.
+Download balance and latest transactions from N26's website.
 
 ## Getting Started
 

@@ -1,6 +1,6 @@
 {
   "name": "n26-scraper",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Download balance and transactions from N26's website",
   "homepage": "https://github.com/fabrice404/n26-scraper",
   "bugs": "https://github.com/fabrice404/n26-scraper/issues",

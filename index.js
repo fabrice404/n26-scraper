@@ -24,7 +24,7 @@ module.exports = {
       return element.getAttribute('innerHTML');
     };
 
-    const getAmountFromText = text => parseFloat(text.replace(/[^0-9.]/g, ''));
+    const getAmountFromText = text => parseFloat(text.replace(/[^0-9.-]/g, ''));
 
     const click = async (selector) => {
       const element = await getElement(selector);
